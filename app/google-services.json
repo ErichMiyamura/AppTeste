@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "432435027200",
+    "firebase_url": "https://provaepistemic.firebaseio.com",
+    "project_id": "provaepistemic",
+    "storage_bucket": "provaepistemic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432435027200:android:00c1ae152873b0c8",
+        "android_client_info": {
+          "package_name": "com.example.user.erichmiyamura"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432435027200-fbqda2ia3rakrg6ctj713snueaua5kgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKLRe_izIAX1_SjM1yZIQDr0af4cISm-E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
